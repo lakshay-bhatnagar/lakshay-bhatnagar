@@ -51,6 +51,7 @@ I'm a developer passionate about building secure, impactful applications. I work
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 ---
 
 > “Security is not a product, but a process.” – Bruce Schneier
