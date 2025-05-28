@@ -28,6 +28,22 @@ I'm a developer passionate about building secure, impactful applications. I work
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshay-bhatnagar&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay-bhatnagar&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshay-bhatnagar&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 ### 📌 Featured Projects
 
 - 🚑 [**SwiftCare**](https://github.com/lakshay-bhatnagar/swiftcare-now)  
